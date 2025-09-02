@@ -1,4 +1,4 @@
-# SQL Project: Consumer Goods - Ad-hoc Insights
+# SQL Project: [Consumer Goods - Ad-hoc Insights](https://github.com/JyothiPadminii-Natru/SQL-Project-Consumer-Goods/blob/main/SQL%20Project-%20Consumer%20Goods%20Insights.pdf)
 
 ## Project Overview
 
